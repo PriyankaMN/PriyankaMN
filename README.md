@@ -15,8 +15,8 @@
 <!-- - 🌱 I’m currently learning more about BlockChain. -->
 <!--- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).-->
 <!-- - 🤔 I’m looking for help with VelocityX documentation. -->
-- ✍ Here is my [portfolio!](https://)
-- 📫 How to reach me: [Gmail](priyankamn0705@gmail.com)
+- ✍ Here is my [portfolio!](https://)<br/>
+- 📫 How to reach me: [Gmail](priyankamn0705@gmail.com)<br/>
 - 😄 Pronouns: She/Her
 
 **Languages and Tools:**  
