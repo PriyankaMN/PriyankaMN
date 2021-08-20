@@ -16,7 +16,7 @@
 <!--- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).-->
 <!-- - 🤔 I’m looking for help with VelocityX documentation. -->
 - ✍ Here is my [Portfolio](https://)<br/>
-- 📫 How to reach me: <a href='mailto:alexandreslima@outlook.com'>alexandreslima@outlook.com</a> <br/>
+- 📫 How to reach me: <a href='mailto:priyankamn0705@gmail.com'>priyankamn0705@gmail.com</a> <br/>
 - 😄 Pronouns: She/Her
 
 **Languages and Tools:**  
