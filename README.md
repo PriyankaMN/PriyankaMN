@@ -32,7 +32,7 @@
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
 <img align="left" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
-<img align="left" src="https://www.logo.wine/a/logo/MuleSoft/MuleSoft-Logo.wine.svg" width="10" height="20"/>
+<img align="left" src="https://www.logo.wine/a/logo/MuleSoft/MuleSoft-Logo.wine.svg" width="100" height="200"/>
 <br/>
 <br/>
 
