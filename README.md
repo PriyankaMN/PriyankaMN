@@ -11,12 +11,11 @@
 </a>
 <br/>
 <br/>
-
 <!-- - - 🔭 I’m currently working on [Frontier](https://frontier.xyz/).-->
 <!-- - 🌱 I’m currently learning more about BlockChain. -->
-- ✍ Here is my [portfolio!](https://)
 <!--- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).-->
 <!-- - 🤔 I’m looking for help with VelocityX documentation. -->
+- ✍ Here is my [portfolio!](https://)
 - 📫 How to reach me: [Gmail](priyankamn0705@gmail.com)
 - 😄 Pronouns: She/Her
 
@@ -30,6 +29,10 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
+<br/>
+<br/>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
