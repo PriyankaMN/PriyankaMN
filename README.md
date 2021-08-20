@@ -32,7 +32,6 @@
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
 <img align="left" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
-<img align="left" src="/>
 <br/>
 <br/>
 
@@ -40,6 +39,11 @@
   <summary>:zap: GitHub Status</summary>
 <img height="180em" alt="Priyanka's GitHub Status" src="https://github-readme-stats.vercel.app/api?username=PriyankaMN&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </details>
+<details>
+  <summary>:zap: GitHub Status</summary>
+<img height="180em" alt="Priyanka's GitHub Status" src="https://github-readme-stats.vercel.app/api?username=PriyankaMN&show_icons=true&hide_border=true" />
+</details>
+
 
 <details>
   <summary>:zap: Most Used Languages</summary>
