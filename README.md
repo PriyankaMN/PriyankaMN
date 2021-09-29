@@ -1,5 +1,5 @@
 ### Heyo, I'm [Priyanka](https://) 👋
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" height="320" />
 
 <a href="https://linkedin.com/in/priyankamn" target="_blank">
   <img align="left" alt="Priyanka's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
