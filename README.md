@@ -46,12 +46,10 @@
 </details>
 
 
-<details>
+
   <summary>:zap: Most Used Languages</summary>
 
 <img align="left" alt="Priyanka's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaMN" />
-
-</details>
 
 <!--
 **PriyankaMN/PriyankaMN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
