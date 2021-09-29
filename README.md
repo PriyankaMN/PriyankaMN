@@ -36,14 +36,14 @@
 <br/>
 <br/>
 
-<!-- <details>
+<!-- 
   <summary>:zap: GitHub Status</summary>
 <img height="180em" alt="Priyanka's GitHub Status" src="https://github-readme-stats.vercel.app/api?username=PriyankaMN&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </details> -->
 <details>
   <summary>:zap: GitHub Status</summary>
 <img height="180em" alt="Priyanka's GitHub Status" src="https://github-readme-stats.vercel.app/api?username=PriyankaMN&show_icons=true&hide_border=true" />
-</details>
+
 
 
 
