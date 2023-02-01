@@ -1,6 +1,24 @@
-### Heyo, I'm [Priyanka](https://) 👋
+<!--  Heyo, I'm [Priyanka](https://) 👋 -->
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" height="320" />
+ 
+<p align="center">
+<a href="https://github.com/PriyankaMN">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hello; I am Priyanka+MN;Software+Engineer" alt="Typing SVG" />
+</a>
+<br/> 
+<a align="left" href="">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+</a>
+<a href="https://linkedin.com/in/priyankamn" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:priyankamn0705@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+<br/> 
 
+
+<!--
 <a href="https://linkedin.com/in/priyankamn" target="_blank">
   <img align="left" alt="Priyanka's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -10,14 +28,13 @@
 <a href="https://instagram.com/iampriya_m_n/" target="_blank">
   <img align="left" alt="Priyanka's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<br/>
+<br/> -->
 <br/>
 <!-- - - 🔭 I’m currently working on [Frontier](https://frontier.xyz/).-->
 <!-- - 🌱 I’m currently learning more about BlockChain. -->
 <!--- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).-->
 <!-- - 🤔 I’m looking for help with VelocityX documentation. -->
 - ✍ Here is my [Portfolio](https://)<br/>
-- 📫 How to reach me: <a href='mailto:priyankamn0705@gmail.com'>priyankamn0705@gmail.com</a> <br/>
 - 😄 Pronouns: She/Her
 
 **Languages and Tools:**  
