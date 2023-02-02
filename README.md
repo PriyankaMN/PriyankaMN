@@ -1,12 +1,11 @@
-<!--  Heyo, I'm [Priyanka](https://) 👋 -->
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" height="320" />
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" height="320" />
  
-<p align="center">
+<p align="left">
 <a href="https://github.com/PriyankaMN">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hello; I am Priyanka+MN;Software+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hello; I am Priyanka+MN;Software+Engineer" alt="Typing SVG" />
 </a>
-<br/> 
-<a align="left" href="">
+</p>
+<a href="">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>
 <a href="https://linkedin.com/in/priyankamn" target="_blank">
@@ -15,27 +14,12 @@
 <a href="mailto:priyankamn0705@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-<br/> 
-
-
-<!--
-<a href="https://linkedin.com/in/priyankamn" target="_blank">
-  <img align="left" alt="Priyanka's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/PriyankaMN" target="_blank">
-  <img align="left" alt="Priyanka's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/iampriya_m_n/" target="_blank">
-  <img align="left" alt="Priyanka's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<br/> -->
 <br/>
-<!-- - - 🔭 I’m currently working on [Frontier](https://frontier.xyz/).-->
-<!-- - 🌱 I’m currently learning more about BlockChain. -->
-<!--- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).-->
-<!-- - 🤔 I’m looking for help with VelocityX documentation. -->
+<br/>
+
 - ✍ Here is my [Portfolio](https://)<br/>
 - 😄 Pronouns: She/Her
+- 💻 Currently working as a Software Engineer.
 
 **Languages and Tools:**  
 
@@ -54,32 +38,14 @@
 <br/>
 <br/>
 
-<!-- 
-  <summary>:zap: GitHub Status</summary>
-<img height="180em" alt="Priyanka's GitHub Status" src="https://github-readme-stats.vercel.app/api?username=PriyankaMN&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</details> -->
+<summary>:zap: GitHub Stats</summary>
+<img height="150em" alt="Priyanka's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PriyankaMN&show_icons=true&hide_border=true&theme=github_dark"/>
 
-<summary>:zap: GitHub Status</summary>
-<img height="150em" alt="Priyanka's GitHub Status" src="https://github-readme-stats.vercel.app/api?username=PriyankaMN&show_icons=true&hide_border=true"/>
- 
+<p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PriyankaMN&theme=github_dark)
 
-
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Priyanka's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaMN" />
-
-<!--
-**PriyankaMN/PriyankaMN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PriyankaMN&theme=github_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PriyankaMN&theme=github_dark)
+</p>
+<br/>
