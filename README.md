@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hello; I am Priyanka+MN;Software+Engineer" alt="Typing SVG" />
 </a>
 </p>
-<a href="https://github.com/PriyankaMN/PriyankaMN/blob/7ffc6428d01eabeb87741f7e2ba73a98e348ea34/Resume.pdf">
+<a href="https://github.com/PriyankaMN/PriyankaMN/blob/main/Priyanka_CV.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>
 <a href="https://linkedin.com/in/priyankamn" target="_blank">
