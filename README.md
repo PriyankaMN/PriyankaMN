@@ -9,4 +9,5 @@
 <!-- - ✍ Here is my [Portfolio](https://)<br/> -->
 - 😄 Pronouns: She/Her
 - 💻 Currently working as a Software Engineer.
+- ✍ Here is my [Blogs](https://medium.com/@myworkacc3/welcome-to-my-learning-journey-learning-beyond-definitions-2304c70b5a7f)<br/>  
 <br/>
